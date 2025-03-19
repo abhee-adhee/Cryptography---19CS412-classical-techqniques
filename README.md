@@ -35,7 +35,7 @@ Implementation using C or pyhton code
 ## PROGRAM:
 PROGRAM:
 CaearCipher.
-'''
+```
 def caesar_cipher(text, shift):
     result = ""
     for char in text:
@@ -51,7 +51,7 @@ encrypted_message = caesar_cipher(message, key)
 print("Encrypted Message:", encrypted_message)
 decrypted_message = caesar_cipher(encrypted_message, -key)
 print("Decrypted Message:", decrypted_message)
-'''
+```
 
 ## OUTPUT:
 OUTPUT:
