@@ -34,7 +34,7 @@ Implementation using C or pyhton code
 
 ## PROGRAM:
 PROGRAM:
-CaearCipher.
+CaesarCipher.
 ```
 def caesar_cipher(text, shift):
     result = ""
